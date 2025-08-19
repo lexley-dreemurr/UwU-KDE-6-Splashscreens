@@ -1,0 +1,16 @@
+{
+  "KPackageStructure": "Plasma/SplashScreen",
+  "KPlugin": {
+    "Id": "UwU",
+    "Name": "UwU",
+    "Description": "Mein eigener Startbildschirm",
+    "Authors": [
+      {
+        "Name": "Lexley",
+        "Email": "X"
+      }
+    ],
+    "License": "GPLv3",
+    "Website": "https://github.com/lexley-dreemurr/UwU-KDE-6-Splashscreens"
+  }
+}
